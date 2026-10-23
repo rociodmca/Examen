@@ -4,3 +4,5 @@ target/
 .vscode/
 *.log
 .chrome-temp*/
+.chrome-regenerate*/
+tmp/
